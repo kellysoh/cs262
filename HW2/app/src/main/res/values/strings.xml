@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="name">Name</string>
+    <string name="button">FETCH</string>
+    <string name="noresult">no result</string>
+    <string name="No_name">no name</string>
+</resources>
