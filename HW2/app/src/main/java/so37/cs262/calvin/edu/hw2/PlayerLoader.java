@@ -14,7 +14,6 @@ public class PlayerLoader extends AsyncTaskLoader<String> {
 
     @Override
     protected void onStartLoading() {
-
         super.onStartLoading();
         forceLoad();
     }

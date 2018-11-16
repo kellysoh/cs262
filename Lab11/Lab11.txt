@@ -1,0 +1,10 @@
+HW1
+--create calculate function and updated to add onClick function to the calculate button
+--deleted redudant declaration in the main function.
+--changed the order of functions so that it is easier to read.
+--deleted redudant import in the main java file.
+
+HW2
+--add onClick method to the Fetch button 
+--deleted blank lines inside of declarations to make it looks neat
+

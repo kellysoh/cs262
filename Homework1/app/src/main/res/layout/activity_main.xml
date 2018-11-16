@@ -65,13 +65,14 @@
             android:id="@+id/button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/calculate" />
+            android:text="@string/calculate"
+            android:onClick = "calculate"/>
 
         <TextView
             android:id="@+id/result"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@id/result"/>
+            android:text='result'/>
 
     </LinearLayout>
 
