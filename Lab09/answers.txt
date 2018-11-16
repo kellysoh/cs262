@@ -1,0 +1,10 @@
+a. 1 API endpoint. It's in line 122.
+b. 
+	i. JDBC
+	ii. 
+		1. JDBC statement objects go through each data to perform selecting statement and SQL query statement does not need to go through each data. 
+		2. SQL relations are tables of tuples and a JDBC result set is a list of tuples with data and List<Player> is a list of objects.
+	iii. It can be used to search a value of something and get the value of it. If there is no searched result then it returns NULL. 
+c.
+	i. It creates a Java class of Player which contains information of each Player and functions to get/modify/update the data of the player. 
+	ii. The Player table contains the information of columns and its data type (it does not contain the methods to retrieve or modify the data) while Player DAO serves as a platform or a setting of data that does not contain the data directly. 
